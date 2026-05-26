@@ -11,6 +11,7 @@ editor: visual
 | Steven Hiram Rubio Vasquez | Stockholm University + UVG |
 | Alex Holmskär              | Stockholm University       |
 | Jakub                      | Student council            |
+| Saúl Bibiano               | Stockholm University       |
 | Ellen1                     |                            |
 | Ellen                      |                            |
 
