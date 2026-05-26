@@ -9,7 +9,7 @@ editor: visual
 | Name                       | Institution                |
 |----------------------------|----------------------------|
 | Steven Hiram Rubio Vasquez | Stockholm University + UVG |
-|                            |                            |
+| Alex                       |                            |
 |                            |                            |
 |                            |                            |
 
