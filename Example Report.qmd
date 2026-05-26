@@ -11,7 +11,7 @@ editor: visual
 | Steven Hiram Rubio Vasquez | Stockholm University + UVG |
 | Alex Holmskär              | Stockholm University       |
 | Jakub                      | Student council            |
-|                            |                            |
+| Ellen1                     |                            |
 | Ellen                      |                            |
 
 ------------------------------------------------------------------------
@@ -28,9 +28,9 @@ This report walks through the basics of writing and running a Quarto document wi
 
 You can write **bold**, *italic*, and `inline code` directly in the document. Lists work too:
 
--   Item one
--   Item two
--   Item three
+- Item one
+- Item two
+- Item three
 
 And you can add section headers using `##`, `###`, etc.
 
@@ -95,7 +95,7 @@ legend("topleft",
 
 ## Key Takeaways
 
--   Quarto separates content (text) from computation (code chunks).
--   `echo: false` lets you hide code while keeping its output.
--   Built-in datasets like `iris` are great for quick exploration.
--   Rendering produces a self-contained, shareable HTML file.
+- Quarto separates content (text) from computation (code chunks).
+- `echo: false` lets you hide code while keeping its output.
+- Built-in datasets like `iris` are great for quick exploration.
+- Rendering produces a self-contained, shareable HTML file.
